@@ -1,0 +1,10 @@
+# requirements.txt
+Flask
+Flask-SQLAlchemy
+flask-mysqldb
+Flask-Login
+Flask-WTF
+Flask-RESTful
+Werkzeug
+email_validator
+Gunicorn
